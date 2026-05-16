@@ -13,7 +13,7 @@ A Django-based system that demonstrates:
 - Django Shell testing
 
 🔗 Repository Link:  
-[Simple Bank Account System](https://github.com/Chrstsean/bank-account-system/blob/main/bank/models.py)
+[Simple Bank Account System](https://github.com/Chrstsean/bank-account-system)
 
 ---
 
@@ -25,7 +25,7 @@ A Django project that demonstrates:
 - Object-oriented programming in Django models
 
 🔗 Repository Link:  
-[Simple Vehicle Management System](https://github.com/Chrstsean/vehicle-system/blob/main/vehicles/models.py)
+[Simple Vehicle Management System](https://github.com/Chrstsean/vehicle-system)
 
 ---
 
@@ -37,7 +37,7 @@ A Django web application that demonstrates:
 - Database-driven product display
 
 🔗 Repository Link:  
-[Simple Online Product Display System](https://github.com/Chrstsean/product-system/tree/main/config)
+[Simple Online Product Display System](https://github.com/Chrstsean/product-system)
 
 ---
 
